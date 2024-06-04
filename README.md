@@ -101,7 +101,3 @@ Follow these steps to set up the software environment for your project:
   - After successful compilation, click on **Upload and Run** in the PlatformIO extension.
 
 Ensure a stable internet connection and verify that your ESP32 is properly connected to your development machine during the software installation process.
-
-## Documentation
-
-For any other information look at `dokumentace.pdf`
